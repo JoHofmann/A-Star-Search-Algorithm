@@ -10,7 +10,7 @@ To build the project you need following packages:
 - SFML 2.5
 
 Build
-```shell
+```bash
 mkdir build
 cd build
 cmake ../CMakeLists.txt
