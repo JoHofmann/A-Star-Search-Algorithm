@@ -123,24 +123,3 @@ std::vector<vec2> A_star::getPath() {
 
 	return path;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

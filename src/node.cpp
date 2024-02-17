@@ -58,9 +58,3 @@ uint Node::calcGCost() {
 	}
 	return 0.f;
 }
-
-
-
-
-
-
