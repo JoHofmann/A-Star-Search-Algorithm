@@ -4,9 +4,9 @@
 //============================================================================
 
 #include <iostream>
-#include "SFML/Graphics.hpp"
+#include <SFML/Graphics.hpp>
 
-#include "a_star/a_star.hpp"
+#include <a_star/a_star.hpp>
 
 
 int main()
