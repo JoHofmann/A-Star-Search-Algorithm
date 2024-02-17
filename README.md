@@ -9,11 +9,10 @@ To build the project you need following packages:
 - cmake
 - SFML 2.5
 
-Build example project:
-```console
-mkdir build
-cd build
-cmake ../CMakeLists.txt
-make
-./a-star
-```
+Build
+    mkdir build
+    cd build
+    cmake ../CMakeLists.txt
+    make
+Run
+    ./a-star
