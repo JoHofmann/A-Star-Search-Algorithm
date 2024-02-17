@@ -17,6 +17,6 @@ cmake ../CMakeLists.txt
 make
 ```
 Run
-```console
+```bash
 ./a-star
 ```
