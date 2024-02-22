@@ -23,4 +23,4 @@ Run
 
 ## Example
 
-![](doc/example.gif)
+<img src="doc/gifs/example.gif" width="40" height="40" />
