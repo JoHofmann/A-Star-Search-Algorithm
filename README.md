@@ -20,3 +20,7 @@ Run
 ```bash
 ./a-star
 ```
+
+## Example
+
+![](doc/example.gif)
