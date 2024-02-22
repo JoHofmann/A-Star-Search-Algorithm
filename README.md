@@ -23,4 +23,4 @@ Run
 
 ## Example
 
-<img src="doc/gifs/example.gif" width="40" height="40" />
+<img src="doc/gifs/example.gif" width="400" height="300" />
