@@ -7,7 +7,7 @@ A star search algorithm implemented in C++. More [here](https://en.wikipedia.org
 To build the project you need following packages:
 - g++
 - cmake
-- SFML 2.5
+- SFML 2.5 (for example visualisation)
 
 Build
 ```bash
